@@ -1,6 +1,6 @@
-# bloc_pattern
+# To-Dos app
 
-A new Flutter project.
+A Flutter project with Bloc Pattern.
 
 ## Getting Started
 
